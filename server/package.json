@@ -17,5 +17,5 @@
     "mongoose": "^7.0.1",
     "nodemon": "^2.0.21"
   },
-  "description": ""
+  "description": "^3.0.1"
 }
